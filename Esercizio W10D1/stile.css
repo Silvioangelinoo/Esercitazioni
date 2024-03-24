@@ -1,0 +1,116 @@
+body {
+    margin: 0px !important;
+    padding: 0 px !important;
+}
+
+header {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    background-color: #00a0c6;
+    border-bottom: solid 6px #027794;
+    text-transform: uppercase; 
+}
+
+
+.titolo-principale {
+    font-size: 40px;
+    text-transform: uppercase;
+
+}
+
+.titolo1 {
+    color: white; 
+}
+
+.titolo2 {
+    color: #00a0c6; 
+    background-color: white;
+    margin: 20px 120px 45px 120px ;
+}
+
+.titolo-lavoro {
+    font-size: 10px;
+}
+.bold {
+    font-size: 25px;
+}
+
+main {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.info-per {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #027794; 
+    font-weight: 500;
+
+}
+
+main img {
+    width: 350px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border: solid lightgrey 1px;
+    padding: 15px;
+}
+
+.post-lavoro {
+    font-size: 25px;
+    
+}
+
+.icona1 {
+    width: 25px;
+}
+
+.icona2 {
+    width: 25px;
+}
+
+.icona3 {
+    width: 25px;
+}
+
+.testo1 {
+    text-align: center;
+}
+
+.presentazione {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #027794; 
+    font-weight: 500;
+}
+
+.Front-end {
+    color: #027794; 
+}
+
+.progetti-startup {
+    color: #027794; 
+}
+
+.formazione {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #027794; 
+    font-weight: 500;
+}
+
+.Competenze {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #027794; 
+    font-weight: 500;
+}
+
+.template {
+    color: #027794;
+}
+
+.sembra-impossibile {
+    font-size: 15px;
+} 
